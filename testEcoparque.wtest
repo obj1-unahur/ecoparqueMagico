@@ -1,0 +1,9 @@
+import ecoparque.*
+
+describe "group of tests" {
+
+  test "test 1" {
+    assert.that(true)
+  }
+
+}
